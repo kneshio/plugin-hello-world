@@ -1,0 +1,12 @@
+name: "hello-world"
+description: "My hello world plugin"
+keywords: "hello, testing"
+authors: "Your Name <your.email@somewhere.org>, A Coworker <your.coworker@somewhere.org>"
+collaborators: "Helpful Collaborator <our.collaborator@otherplace.edu>"
+funding: ""
+license: ""
+homepage: "https://github.com/username/plugin-hello-world/blob/main/README.md"
+source:
+  architectures:
+    - "linux/amd64"
+    - "linux/arm64"
